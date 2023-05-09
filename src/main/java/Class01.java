@@ -7,8 +7,9 @@ public class Class01 {
         //v3 kodlari
         //V4 calismalar
         //V5
-        //Github degisikleri
 
+        //Github degisikleri
+        //localden sevgilerle
 
 
 
